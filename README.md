@@ -1,6 +1,5 @@
 ## Faala dev, Leonardo Aqui!💻
-- 🛠HTML | CSS | Java | Bootstrap | SCRUM 
-- 🛠Estudando Java, SpringBoot, ApiRest, Javascript
+- 🛠 Java | Hibernate/JPA | MySQL | SpringBoot | REST/JSON 
 - 🔍Buscando Vagas
 <br>
 <div>
