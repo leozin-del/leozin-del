@@ -1,6 +1,6 @@
 Leonardo Aqui!!💻
 - 🛠 Java | Hibernate/JPA | MySQL | SpringBoot | REST/JSON 
-- 🔍Buscando Vagas
+- 🔍Buscando Vagas.
 
 <div align="center">
    <h1 align="center">Melhores Tecnologias <3</h1>
