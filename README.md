@@ -50,7 +50,9 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozin-del&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://stats.vercel.app/api?username=leozin-del&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://stats.vercel.app/api/top-langs/?username=leozin-del&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=leozin-del&theme=tokyonight"/>
 </div>
 
 ---
