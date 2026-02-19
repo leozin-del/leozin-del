@@ -8,7 +8,7 @@ Leonardo Aqui!!💻
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -16,7 +16,7 @@ Leonardo Aqui!!💻
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -24,7 +24,7 @@ Leonardo Aqui!!💻
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -32,7 +32,7 @@ Leonardo Aqui!!💻
     align="left" 
     alt="Java" 
     title="java"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
@@ -40,7 +40,7 @@ Leonardo Aqui!!💻
     align="left" 
     alt="mysql" 
     title="mysql"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
 />
@@ -49,7 +49,7 @@ Leonardo Aqui!!💻
     align="left" 
     alt="Springboot" 
     title="spring"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
@@ -58,7 +58,7 @@ Leonardo Aqui!!💻
     align="left" 
     alt="Docker" 
     title="docker"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
 /> 
@@ -67,7 +67,7 @@ Leonardo Aqui!!💻
     align="left" 
     alt="Hibernate" 
     title="hibernate"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"
 />
@@ -75,9 +75,6 @@ Leonardo Aqui!!💻
 
 #
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="60" height="60" />
-</div>
 
 <br>
 <div align="center"> 
