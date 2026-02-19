@@ -1,5 +1,5 @@
 Leonardo Aqui!!💻
-- 🛠 Java | Hibernate/JPA | MySQL | SpringBoot | REST/JSON .
+- Formado em Análise e Desenvolvimento de Sitemas.
 - 🔍Buscando Vagas.
 
 ### 🧰 Languages and Tools
@@ -44,7 +44,6 @@ Leonardo Aqui!!💻
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
 />
- 
 <img 
     align="left" 
     alt="Springboot" 
@@ -53,7 +52,6 @@ Leonardo Aqui!!💻
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
-
 <img 
     align="left" 
     alt="Docker" 
@@ -62,7 +60,6 @@ Leonardo Aqui!!💻
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
 /> 
-
 <img 
     align="left" 
     alt="Hibernate" 
@@ -73,16 +70,21 @@ Leonardo Aqui!!💻
 />
 
 
-#
-
 
 <br>
+
 <div align="center"> 
   <a align="center"href = "mailto:leonardopaulingrillo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a  href="https://www.linkedin.com/in/leonardo-pgrillo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
 </div>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-
-    
