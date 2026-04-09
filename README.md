@@ -5,8 +5,8 @@
 ### 💻 Desenvolvedor Java & Backend
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-🔍 Aberto a **oportunidades como Desenvolvedor Java / Backend**
-☕ Apaixonado por código limpo, boas práticas e café
+🔍 Aberto a **oportunidades como Desenvolvedor Backend**
+
 
 <br>
 
