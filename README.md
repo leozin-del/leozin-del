@@ -16,7 +16,7 @@
 
 </div>
 
----
+
 
 ## 🧰 Tecnologias & Ferramentas
 
@@ -33,7 +33,7 @@
 
 </div>
 
----
+
 
 ## 📊 Estatísticas do GitHub
 
