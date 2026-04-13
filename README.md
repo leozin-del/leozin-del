@@ -46,7 +46,6 @@
   <img src="https://streak-stats.demolab.com?user=leozin-del&theme=tokyonight&hide_border=false&locale=pt_BR"/>
 </div>
 
----
 
 ## 🐍 Contribuições
 
