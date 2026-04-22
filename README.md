@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Olá, eu sou o Leonardo! 👋
 
@@ -20,7 +20,7 @@
 
 ## 🧰 Tecnologias & Ferramentas
 
-<div align="center">
+<div >
 
 <img alt="Java" title="Java" width="48px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img alt="Spring Boot" title="Spring Boot" width="48px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
