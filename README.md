@@ -2,9 +2,10 @@
 
 # Olá, eu sou o Leonardo! 👋
 
-### 💻 Desenvolvedor Java & Backend
+### 💻 Desenvolvedor Backend | Java | Springboot | MYSQL | Git | APis
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+
 🔍 Aberto a **oportunidades como Desenvolvedor Backend**
 
 
@@ -23,13 +24,13 @@
 <div >
 
 <img alt="Java" title="Java" width="48px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img alt="Spring Boot" title="Spring Boot" width="48px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-<img alt="Hibernate" title="Hibernate" width="48px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" />
-<img alt="MySQL" title="MySQL" width="48px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-<img alt="Docker" title="Docker" width="48px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img alt="Git" title="Git" width="48px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="HTML" title="HTML" width="48px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS" title="CSS" width="48px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="Spring Boot" title="Spring Boot" width="50px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img alt="Hibernate" title="Hibernate" width="50px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" />
+<img alt="MySQL" title="MySQL" width="50px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+<img alt="Docker" title="Docker" width="50px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img alt="Git" title="Git" width="50px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="HTML" title="HTML" width="50px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS" title="CSS" width="50px" style="padding: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 </div>
 
