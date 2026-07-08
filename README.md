@@ -47,7 +47,7 @@
   <img src="https://streak-stats.demolab.com?user=leozin-del&theme=tokyonight&hide_border=false&locale=pt_BR"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozin-del&layout=compact&theme=tokyonight)
 
 
 ## 🐍 Contribuições
