@@ -49,11 +49,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozin-del&layout=compact&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=leozin-del&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leozin-del&theme=tokyo-night)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=leozin-del&theme=tokyonight)
 
 
 ## 🐍 Contribuições
